@@ -22,4 +22,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Namir-Khan/Leet-Code/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Namir-Khan/Leet-Code/tree/master/0049-group-anagrams) |
+| [1127-last-stone-weight](https://github.com/Namir-Khan/Leet-Code/tree/master/1127-last-stone-weight) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/Namir-Khan/Leet-Code/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
