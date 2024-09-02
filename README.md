@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Namir-Khan/Leet-Code/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Namir-Khan/Leet-Code/tree/master/0049-group-anagrams) |
+| [0238-product-of-array-except-self](https://github.com/Namir-Khan/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Namir-Khan/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [1127-last-stone-weight](https://github.com/Namir-Khan/Leet-Code/tree/master/1127-last-stone-weight) |
 ## Heap (Priority Queue)
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Namir-Khan/Leet-Code/tree/master/1013-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Namir-Khan/Leet-Code/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
