@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Namir-Khan/Leet-Code/tree/master/1078-remove-outermost-parentheses) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Namir-Khan/Leet-Code/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
