@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Namir-Khan/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Namir-Khan/Leet-Code/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Namir-Khan/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Namir-Khan/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/Namir-Khan/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Namir-Khan/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [1127-last-stone-weight](https://github.com/Namir-Khan/Leet-Code/tree/master/1127-last-stone-weight) |
@@ -59,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Namir-Khan/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Namir-Khan/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Namir-Khan/Leet-Code/tree/master/0155-min-stack) |
 | [1078-remove-outermost-parentheses](https://github.com/Namir-Khan/Leet-Code/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Namir-Khan/Leet-Code/tree/master/0007-reverse-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Namir-Khan/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1013-fibonacci-number](https://github.com/Namir-Khan/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
