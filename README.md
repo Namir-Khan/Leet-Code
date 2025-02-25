@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Namir-Khan/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Namir-Khan/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Namir-Khan/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/Namir-Khan/Leet-Code/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Namir-Khan/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Namir-Khan/Leet-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Namir-Khan/Leet-Code/tree/master/0347-top-k-frequent-elements) |
@@ -113,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Namir-Khan/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Namir-Khan/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/Namir-Khan/Leet-Code/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Namir-Khan/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Namir-Khan/Leet-Code/tree/master/0200-number-of-islands) |
 ## Design
 |  |
 | ------- |
@@ -145,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Namir-Khan/Leet-Code/tree/master/0054-spiral-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Namir-Khan/Leet-Code/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Namir-Khan/Leet-Code/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
