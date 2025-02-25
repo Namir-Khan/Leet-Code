@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Namir-Khan/Leet-Code/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Namir-Khan/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Namir-Khan/Leet-Code/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Namir-Khan/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Namir-Khan/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Namir-Khan/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/Namir-Khan/Leet-Code/tree/master/0238-product-of-array-except-self) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Namir-Khan/Leet-Code/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Namir-Khan/Leet-Code/tree/master/0054-spiral-matrix) |
 ## Union Find
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/Namir-Khan/Leet-Code/tree/master/1395-minimum-time-visiting-all-points) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Namir-Khan/Leet-Code/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
