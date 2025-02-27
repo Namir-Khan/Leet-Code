@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Namir-Khan/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Namir-Khan/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Namir-Khan/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Namir-Khan/Leet-Code/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Namir-Khan/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Namir-Khan/Leet-Code/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Namir-Khan/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Namir-Khan/Leet-Code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Namir-Khan/Leet-Code/tree/master/0268-missing-number) |
 ## Geometry
 |  |
