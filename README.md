@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Namir-Khan/Leet-Code/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Namir-Khan/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Namir-Khan/Leet-Code/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Namir-Khan/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Namir-Khan/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Namir-Khan/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Namir-Khan/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Namir-Khan/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Namir-Khan/Leet-Code/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Namir-Khan/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Namir-Khan/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Namir-Khan/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Namir-Khan/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Namir-Khan/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Namir-Khan/Leet-Code/tree/master/0322-coin-change) |
