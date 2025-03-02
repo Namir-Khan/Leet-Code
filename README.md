@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Namir-Khan/Leet-Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Namir-Khan/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Namir-Khan/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/Namir-Khan/Leet-Code/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Namir-Khan/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Namir-Khan/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Namir-Khan/Leet-Code/tree/master/0136-single-number) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Namir-Khan/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Namir-Khan/Leet-Code/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/Namir-Khan/Leet-Code/tree/master/0800-letter-case-permutation) |
 ## Monotonic Stack
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Namir-Khan/Leet-Code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Namir-Khan/Leet-Code/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Namir-Khan/Leet-Code/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Namir-Khan/Leet-Code/tree/master/0268-missing-number) |
