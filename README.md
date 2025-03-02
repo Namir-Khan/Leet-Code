@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Namir-Khan/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Namir-Khan/Leet-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Namir-Khan/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Namir-Khan/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Namir-Khan/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/Namir-Khan/Leet-Code/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Namir-Khan/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Namir-Khan/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0739-daily-temperatures](https://github.com/Namir-Khan/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0875-longest-mountain-in-array](https://github.com/Namir-Khan/Leet-Code/tree/master/0875-longest-mountain-in-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Namir-Khan/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Namir-Khan/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/Namir-Khan/Leet-Code/tree/master/1127-last-stone-weight) |
 | [1306-minimum-absolute-difference](https://github.com/Namir-Khan/Leet-Code/tree/master/1306-minimum-absolute-difference) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namir-Khan/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Namir-Khan/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Namir-Khan/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Namir-Khan/Leet-Code/tree/master/1127-last-stone-weight) |
 ## Divide and Conquer
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Namir-Khan/Leet-Code/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namir-Khan/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Namir-Khan/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Namir-Khan/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namir-Khan/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Namir-Khan/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Namir-Khan/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Namir-Khan/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Namir-Khan/Leet-Code/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Namir-Khan/Leet-Code/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/Namir-Khan/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Namir-Khan/Leet-Code/tree/master/1395-minimum-time-visiting-all-points) |
 ## Dynamic Programming
 |  |
@@ -200,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Namir-Khan/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Namir-Khan/Leet-Code/tree/master/1395-minimum-time-visiting-all-points) |
 ## Simulation
 |  |
