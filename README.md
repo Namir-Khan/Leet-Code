@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Namir-Khan/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Namir-Khan/Leet-Code/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Namir-Khan/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Namir-Khan/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/Namir-Khan/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Namir-Khan/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Namir-Khan/Leet-Code/tree/master/0268-missing-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Namir-Khan/Leet-Code/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Namir-Khan/Leet-Code/tree/master/0031-next-permutation) |
+| [0141-linked-list-cycle](https://github.com/Namir-Khan/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0875-longest-mountain-in-array](https://github.com/Namir-Khan/Leet-Code/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Namir-Khan/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Namir-Khan/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
@@ -212,5 +214,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Namir-Khan/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/Namir-Khan/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
