@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Namir-Khan/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Namir-Khan/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Namir-Khan/Leet-Code/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Namir-Khan/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Namir-Khan/Leet-Code/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/Namir-Khan/Leet-Code/tree/master/1078-remove-outermost-parentheses) |
 ## Math
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Namir-Khan/Leet-Code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Namir-Khan/Leet-Code/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Namir-Khan/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Namir-Khan/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Namir-Khan/Leet-Code/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Namir-Khan/Leet-Code/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Namir-Khan/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Namir-Khan/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0875-longest-mountain-in-array](https://github.com/Namir-Khan/Leet-Code/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Namir-Khan/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Namir-Khan/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
@@ -220,5 +223,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Namir-Khan/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Namir-Khan/Leet-Code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Namir-Khan/Leet-Code/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Namir-Khan/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Namir-Khan/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
