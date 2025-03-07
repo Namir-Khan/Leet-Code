@@ -233,11 +233,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Namir-Khan/Leet-Code/tree/master/0200-number-of-islands) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Namir-Khan/Leet-Code/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Namir-Khan/Leet-Code/tree/master/0322-coin-change) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -275,4 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Namir-Khan/Leet-Code/tree/master/2610-closest-prime-numbers-in-range) |
+## Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
