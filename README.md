@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Namir-Khan/Leet-Code/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Namir-Khan/Leet-Code/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Namir-Khan/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Namir-Khan/Leet-Code/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Namir-Khan/Leet-Code/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Namir-Khan/Leet-Code/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Namir-Khan/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Namir-Khan/Leet-Code/tree/master/0112-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -299,5 +302,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Namir-Khan/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Namir-Khan/Leet-Code/tree/master/0112-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
