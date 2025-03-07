@@ -5,10 +5,13 @@ class Solution:
             is_prime = [True] * (right + 1)
             is_prime[0] = is_prime[1] = False
 
+            # We go till sqrt of the end point as the rest will be covered
             for n in range(2, int(sqrt(right)) + 1):
                 if not is_prime[n]:
                     continue
-                for m in range(n + n, right + 1, n):
+                # We can actually starrt from n*n as all the cases before will be covered
+                # eg 5, 5+5(covered by 2), 5+5+5(covered by 3), ...
+                for m in range(n * n, right + 1, n): 
                     is_prime[m] = False
 
             primes = []
