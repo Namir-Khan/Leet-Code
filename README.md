@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Namir-Khan/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Namir-Khan/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Namir-Khan/Leet-Code/tree/master/1395-minimum-time-visiting-all-points) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Namir-Khan/Leet-Code/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/Namir-Khan/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -270,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Namir-Khan/Leet-Code/tree/master/0954-maximum-sum-circular-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Namir-Khan/Leet-Code/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
