@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Namir-Khan/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0800-letter-case-permutation](https://github.com/Namir-Khan/Leet-Code/tree/master/0800-letter-case-permutation) |
 | [1078-remove-outermost-parentheses](https://github.com/Namir-Khan/Leet-Code/tree/master/1078-remove-outermost-parentheses) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Namir-Khan/Leet-Code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sorting
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Namir-Khan/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Namir-Khan/Leet-Code/tree/master/0219-contains-duplicate-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Namir-Khan/Leet-Code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Linked List
 |  |
 | ------- |
