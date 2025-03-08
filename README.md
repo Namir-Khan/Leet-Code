@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Namir-Khan/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Namir-Khan/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/Namir-Khan/Leet-Code/tree/master/0621-task-scheduler) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Namir-Khan/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Namir-Khan/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Namir-Khan/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 ## String
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Namir-Khan/Leet-Code/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Namir-Khan/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Namir-Khan/Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Namir-Khan/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0875-longest-mountain-in-array](https://github.com/Namir-Khan/Leet-Code/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Namir-Khan/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Namir-Khan/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Namir-Khan/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Namir-Khan/Leet-Code/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Namir-Khan/Leet-Code/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Namir-Khan/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Enumeration
 |  |
 | ------- |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Namir-Khan/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -318,12 +323,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Namir-Khan/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Namir-Khan/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
