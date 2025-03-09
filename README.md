@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Namir-Khan/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Namir-Khan/Leet-Code/tree/master/2195-time-needed-to-buy-tickets) |
 | [3227-find-missing-and-repeated-values](https://github.com/Namir-Khan/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
+| [3483-alternating-groups-ii](https://github.com/Namir-Khan/Leet-Code/tree/master/3483-alternating-groups-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Namir-Khan/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Namir-Khan/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Namir-Khan/Leet-Code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/Namir-Khan/Leet-Code/tree/master/3483-alternating-groups-ii) |
 ## Linked List
 |  |
 | ------- |
