@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Namir-Khan/Leet-Code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Namir-Khan/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/Namir-Khan/Leet-Code/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Namir-Khan/Leet-Code/tree/master/3643-zero-array-transformation-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Namir-Khan/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Namir-Khan/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Namir-Khan/Leet-Code/tree/master/0303-range-sum-query-immutable) |
+| [3643-zero-array-transformation-ii](https://github.com/Namir-Khan/Leet-Code/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Namir-Khan/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Namir-Khan/Leet-Code/tree/master/0268-missing-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Namir-Khan/Leet-Code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/Namir-Khan/Leet-Code/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
