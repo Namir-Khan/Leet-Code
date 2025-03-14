@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Namir-Khan/Leet-Code/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/Namir-Khan/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0875-longest-mountain-in-array](https://github.com/Namir-Khan/Leet-Code/tree/master/0875-longest-mountain-in-array) |
+| [0907-koko-eating-bananas](https://github.com/Namir-Khan/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Namir-Khan/Leet-Code/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/Namir-Khan/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Namir-Khan/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Namir-Khan/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Namir-Khan/Leet-Code/tree/master/0268-missing-number) |
+| [0907-koko-eating-bananas](https://github.com/Namir-Khan/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Namir-Khan/Leet-Code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Namir-Khan/Leet-Code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Namir-Khan/Leet-Code/tree/master/3643-zero-array-transformation-ii) |
