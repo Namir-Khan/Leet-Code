@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Namir-Khan/Leet-Code/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Namir-Khan/Leet-Code/tree/master/2690-house-robber-iv) |
 | [3227-find-missing-and-repeated-values](https://github.com/Namir-Khan/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Namir-Khan/Leet-Code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Namir-Khan/Leet-Code/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Namir-Khan/Leet-Code/tree/master/3643-zero-array-transformation-ii) |
 ## Heap (Priority Queue)
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Namir-Khan/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Namir-Khan/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Namir-Khan/Leet-Code/tree/master/0303-range-sum-query-immutable) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Namir-Khan/Leet-Code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Namir-Khan/Leet-Code/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/Namir-Khan/Leet-Code/tree/master/0800-letter-case-permutation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Namir-Khan/Leet-Code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Namir-Khan/Leet-Code/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Namir-Khan/Leet-Code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Geometry
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Namir-Khan/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Namir-Khan/Leet-Code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Namir-Khan/Leet-Code/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Namir-Khan/Leet-Code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Namir-Khan/Leet-Code/tree/master/3483-alternating-groups-ii) |
 ## Linked List
 |  |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Namir-Khan/Leet-Code/tree/master/0954-maximum-sum-circular-subarray) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Namir-Khan/Leet-Code/tree/master/2195-time-needed-to-buy-tickets) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Namir-Khan/Leet-Code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
 | ------- |
