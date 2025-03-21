@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Namir-Khan/Leet-Code/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Namir-Khan/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Namir-Khan/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Namir-Khan/Leet-Code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Namir-Khan/Leet-Code/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Namir-Khan/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 ## String
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Namir-Khan/Leet-Code/tree/master/0979-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/Namir-Khan/Leet-Code/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Namir-Khan/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Namir-Khan/Leet-Code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Namir-Khan/Leet-Code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sorting
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/Namir-Khan/Leet-Code/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Namir-Khan/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Namir-Khan/Leet-Code/tree/master/2195-time-needed-to-buy-tickets) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Namir-Khan/Leet-Code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Namir-Khan/Leet-Code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Namir-Khan/Leet-Code/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Namir-Khan/Leet-Code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -417,9 +420,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Namir-Khan/Leet-Code/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Namir-Khan/Leet-Code/tree/master/0207-course-schedule) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Namir-Khan/Leet-Code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Namir-Khan/Leet-Code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Namir-Khan/Leet-Code/tree/master/0207-course-schedule) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Namir-Khan/Leet-Code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
