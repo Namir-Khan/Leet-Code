@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Namir-Khan/Leet-Code/tree/master/0979-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/Namir-Khan/Leet-Code/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Namir-Khan/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2173-number-of-valid-words-in-a-sentence](https://github.com/Namir-Khan/Leet-Code/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Namir-Khan/Leet-Code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Namir-Khan/Leet-Code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sorting
