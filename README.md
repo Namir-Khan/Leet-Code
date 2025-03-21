@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Namir-Khan/Leet-Code/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Namir-Khan/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0800-letter-case-permutation](https://github.com/Namir-Khan/Leet-Code/tree/master/0800-letter-case-permutation) |
+| [0979-di-string-match](https://github.com/Namir-Khan/Leet-Code/tree/master/0979-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/Namir-Khan/Leet-Code/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Namir-Khan/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Namir-Khan/Leet-Code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/Namir-Khan/Leet-Code/tree/master/0875-longest-mountain-in-array) |
 | [0907-koko-eating-bananas](https://github.com/Namir-Khan/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Namir-Khan/Leet-Code/tree/master/0954-maximum-sum-circular-subarray) |
+| [0979-di-string-match](https://github.com/Namir-Khan/Leet-Code/tree/master/0979-di-string-match) |
 | [1014-k-closest-points-to-origin](https://github.com/Namir-Khan/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Namir-Khan/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Namir-Khan/Leet-Code/tree/master/1034-subarrays-with-k-different-integers) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Namir-Khan/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0875-longest-mountain-in-array](https://github.com/Namir-Khan/Leet-Code/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Namir-Khan/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
+| [0979-di-string-match](https://github.com/Namir-Khan/Leet-Code/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Namir-Khan/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 ## Matrix
 |  |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Namir-Khan/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/Namir-Khan/Leet-Code/tree/master/0621-task-scheduler) |
+| [0979-di-string-match](https://github.com/Namir-Khan/Leet-Code/tree/master/0979-di-string-match) |
 | [1285-balance-a-binary-search-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
 ## Monotonic Queue
 |  |
