@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/Namir-Khan/Leet-Code/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Namir-Khan/Leet-Code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Namir-Khan/Leet-Code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Namir-Khan/Leet-Code/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 ## Sorting
 |  |
 | ------- |
