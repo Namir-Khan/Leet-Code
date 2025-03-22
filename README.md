@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Namir-Khan/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Namir-Khan/Leet-Code/tree/master/0200-number-of-islands) |
+| [2793-count-the-number-of-complete-components](https://github.com/Namir-Khan/Leet-Code/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Namir-Khan/Leet-Code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Design
 |  |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Namir-Khan/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Namir-Khan/Leet-Code/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Namir-Khan/Leet-Code/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Namir-Khan/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2793-count-the-number-of-complete-components](https://github.com/Namir-Khan/Leet-Code/tree/master/2793-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
 | ------- |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Namir-Khan/Leet-Code/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Namir-Khan/Leet-Code/tree/master/0207-course-schedule) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Namir-Khan/Leet-Code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/Namir-Khan/Leet-Code/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Namir-Khan/Leet-Code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
