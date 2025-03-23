@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Namir-Khan/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Namir-Khan/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Namir-Khan/Leet-Code/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/Namir-Khan/Leet-Code/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/Namir-Khan/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Namir-Khan/Leet-Code/tree/master/1127-last-stone-weight) |
 ## Divide and Conquer
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Namir-Khan/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0744-network-delay-time](https://github.com/Namir-Khan/Leet-Code/tree/master/0744-network-delay-time) |
 | [1285-balance-a-binary-search-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Namir-Khan/Leet-Code/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Namir-Khan/Leet-Code/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Namir-Khan/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Namir-Khan/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0744-network-delay-time](https://github.com/Namir-Khan/Leet-Code/tree/master/0744-network-delay-time) |
 | [2793-count-the-number-of-complete-components](https://github.com/Namir-Khan/Leet-Code/tree/master/2793-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Namir-Khan/Leet-Code/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Namir-Khan/Leet-Code/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/Namir-Khan/Leet-Code/tree/master/0744-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Namir-Khan/Leet-Code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Namir-Khan/Leet-Code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/Namir-Khan/Leet-Code/tree/master/2793-count-the-number-of-complete-components) |
@@ -439,5 +443,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Namir-Khan/Leet-Code/tree/master/0744-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Namir-Khan/Leet-Code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
