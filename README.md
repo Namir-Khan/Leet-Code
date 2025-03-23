@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Namir-Khan/Leet-Code/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Namir-Khan/Leet-Code/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Namir-Khan/Leet-Code/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Namir-Khan/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Namir-Khan/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Namir-Khan/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Namir-Khan/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Namir-Khan/Leet-Code/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Namir-Khan/Leet-Code/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Namir-Khan/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Namir-Khan/Leet-Code/tree/master/0203-remove-linked-list-elements) |
