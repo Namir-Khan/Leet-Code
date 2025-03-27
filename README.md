@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Namir-Khan/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Namir-Khan/Leet-Code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Namir-Khan/Leet-Code/tree/master/2308-divide-array-into-equal-pairs) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Namir-Khan/Leet-Code/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Namir-Khan/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Namir-Khan/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/Namir-Khan/Leet-Code/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Namir-Khan/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Namir-Khan/Leet-Code/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Array
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Namir-Khan/Leet-Code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Namir-Khan/Leet-Code/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Namir-Khan/Leet-Code/tree/master/2690-house-robber-iv) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Namir-Khan/Leet-Code/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Namir-Khan/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Namir-Khan/Leet-Code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Namir-Khan/Leet-Code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
